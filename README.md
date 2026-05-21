@@ -1,6 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on fullstack applications (web & mobile), designing scalable APIs and integrating AI-powered features into real-world products<br><br>👯 I’m looking to collaborate on innovative projects involving web/mobile development, data engineering, and artificial intelligence<br><br>🤝 I’m looking for help with advanced AI systems, large-scale architectures, and optimizing data pipelines<br><br>🌱 I’m currently learning more about machine learning, deep learning, and system design to build high-performance and intelligent applications<br><br>💬 Ask me about fullstack development, API design, mobile apps, and integrating data & AI into products<br><br>⚡ Fun fact: I can turn an idea into a complete product (frontend, backend, API, and AI)
 
+🔭 **Currently** working on fullstack applications (web & mobile), designing **scalable AI systems**, building **robust APIs** and integrating **intelligent AI agents** into real-world products<br><br>
+
+👯 **Looking to collaborate** on innovative projects involving **fullstack development**, **AI automation**, **LLM/RAG systems** and **data architecture**<br><br>
+
+🤝 **I can help with** designing **advanced AI systems**, **scalable backend architecture**, **data pipeline optimization**, and **production LLM integration**<br><br>
+
+🌱 **Continuously learning** the latest in **deep learning**, **RAG/AI agents**, **system design** and **cloud infrastructure** to build high-performance and intelligent applications<br><br>
+
+💬 **Ask me about** fullstack development, API design, mobile apps, **AI automation**, **LLM systems**, and integrating data & AI into complete products<br><br>
+
+⚡ **Fun fact:** I can transform an idea into a complete product (frontend, backend, API, scalable AI systems and intelligent agents) 🚀
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/WILSON-BAHUN Denis](https://www.linkedin.com/in/denis-wilson-bahun-29a67228b/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:wilsonvry@gmail.com) 
