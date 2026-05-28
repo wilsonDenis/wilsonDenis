@@ -1,14 +1,14 @@
 # 💫 About Me:
 
-🔭 **Currently** working on fullstack applications (web & mobile), designing **scalable AI systems**, building **robust APIs** and integrating **intelligent AI agents** into real-world products<br><br>
+🔭 **Currently** working on fullstack applications (web & mobile), designing **scalable AI systems**, building **robust APIs** and integrating **intelligent AI agents** into real-world products<br>
 
-👯 **Looking to collaborate** on innovative projects involving **fullstack development**, **AI automation**, **LLM/RAG systems** and **data architecture**<br><br>
+👯 **Looking to collaborate** on innovative projects involving **fullstack development**, **AI automation**, **LLM/RAG systems** and **data architecture**<br>
 
-🤝 **I can help with** designing **advanced AI systems**, **scalable backend architecture**, **data pipeline optimization**, and **production LLM integration**<br><br>
+🤝 **I can help with** designing **advanced AI systems**, **scalable backend architecture**, **data pipeline optimization**, and **production LLM integration**<br>
 
-🌱 **Continuously learning** the latest in **deep learning**, **RAG/AI agents**, **system design** and **cloud infrastructure** to build high-performance and intelligent applications<br><br>
+🌱 **Continuously learning** the latest in **deep learning**, **RAG/AI agents**, **system design** and **cloud infrastructure** to build high-performance and intelligent applications<br>
 
-💬 **Ask me about** fullstack development, API design, mobile apps, **AI automation**, **LLM systems**, and integrating data & AI into complete products<br><br>
+💬 **Ask me about** fullstack development, API design, mobile apps, **AI automation**, **LLM systems**, and integrating data & AI into complete products<br>
 
 ⚡ **Fun fact:** I can transform an idea into a complete product (frontend, backend, API, scalable AI systems and intelligent agents) 🚀
 
